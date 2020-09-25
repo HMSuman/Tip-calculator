@@ -1,0 +1,11 @@
+#head {
+    outline: 5px solid red;
+    color: blue;
+    text-transform: uppercase;
+    background: green;
+    margin-bottom: 25px;
+}
+
+#results {
+    display: none;
+}
